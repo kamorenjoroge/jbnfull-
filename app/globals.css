@@ -1,0 +1,64 @@
+@import "tailwindcss";
+
+@theme inline {
+  /* Yellow: primary buttons, highlights, badges */
+  --color-brand: #FFC20E;
+  --color-brand-dark: #E5A800;
+  --color-brand-light: #FFF6D6;
+
+  /* Black: navbar, footer, headings, text */
+  --color-ink: #111111;
+  --color-ink-soft: #2A2A2A;
+  --color-muted: #6B7280;
+
+  /* Green: WhatsApp/order buttons, in-stock, discounts */
+  --color-forest: #15803D;
+  --color-forest-dark: #116B32;
+  --color-forest-light: #DCFCE7;
+
+  /* Light backgrounds and borders */
+  --color-surface: #F6F6F4;
+  --color-line: #E7E5E4;
+
+  --font-heading: var(--font-barlow);
+  --font-sans: var(--font-inter);
+}
+
+body {
+  background: #ffffff;
+  color: var(--color-ink);
+}
+
+/* Yellow-and-black warning stripe, for small accents like section dividers */
+.hazard-stripe {
+  background: repeating-linear-gradient(
+    -45deg,
+    var(--color-brand) 0 14px,
+    var(--color-ink) 14px 28px
+  );
+}
+.no-scrollbar {
+  scrollbar-width: none;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+@keyframes marquee {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+
+.animate-marquee {
+  animation: marquee 30s linear infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-marquee {
+    animation: none;
+    width: auto;
+    flex-wrap: wrap;
+    justify-content: center;
+    row-gap: 0.75rem;
+  }
+}

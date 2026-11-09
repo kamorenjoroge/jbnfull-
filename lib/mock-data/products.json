@@ -1,0 +1,1605 @@
+[
+  {
+    "id": "p1",
+    "slug": "deli-ultra-thin-mesh-rim-diamond-disc",
+    "sku": "DL-DHCQP11E2",
+    "name": "Deli Ultra-Thin Mesh Rim Diamond Disc",
+    "brand": "Deli",
+    "categoryId": "c7",
+    "price": 450,
+    "oldPrice": 600,
+    "images": [
+      "/p-disc.jpg"
+    ],
+    "shortDescription": "Genuine Deli cutting & abrasives built for daily site work.",
+    "description": "The Deli Ultra-Thin Mesh Rim Diamond Disc is a reliable choice for fundis, contractors and homeowners. Sourced directly from authorised Deli distributors and backed by JNB Tools after-sales support.",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Deli"
+      },
+      {
+        "label": "Model / SKU",
+        "value": "DL-DHCQP11E2"
+      },
+      {
+        "label": "Category",
+        "value": "Cutting & Abrasives"
+      },
+      {
+        "label": "Diameter",
+        "value": "115mm"
+      },
+      {
+        "label": "Thickness",
+        "value": "1.2mm"
+      },
+      {
+        "label": "Use",
+        "value": "Tile, porcelain, granite"
+      }
+    ],
+    "stockStatus": "in_stock",
+    "isFeatured": true,
+    "isPopular": true,
+    "warranty": "None",
+    "tags": [
+      "cutting-abrasives",
+      "deli"
+    ]
+  },
+  {
+    "id": "p2",
+    "slug": "ingco-cordless-drill-20v",
+    "sku": "CDLI20051",
+    "name": "Ingco Cordless Drill 20V",
+    "brand": "Ingco",
+    "categoryId": "c1",
+    "price": 8500,
+    "oldPrice": 9800,
+    "images": [
+      "/p-drill.jpg"
+    ],
+    "shortDescription": "Genuine Ingco power tools built for daily site work.",
+    "description": "The Ingco Cordless Drill 20V is a reliable choice for fundis, contractors and homeowners. Sourced directly from authorised Ingco distributors and backed by JNB Tools after-sales support.",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Ingco"
+      },
+      {
+        "label": "Model / SKU",
+        "value": "CDLI20051"
+      },
+      {
+        "label": "Category",
+        "value": "Power Tools"
+      }
+    ],
+    "stockStatus": "in_stock",
+    "isFeatured": true,
+    "isPopular": true,
+    "warranty": "6 months",
+    "tags": [
+      "power-tools",
+      "ingco"
+    ]
+  },
+  {
+    "id": "p3",
+    "slug": "bosch-gsb-550-impact-drill",
+    "sku": "GSB550",
+    "name": "Bosch GSB 550 Impact Drill",
+    "brand": "Bosch",
+    "categoryId": "c1",
+    "price": 7200,
+    "oldPrice": null,
+    "images": [
+      "/p-drill.jpg"
+    ],
+    "shortDescription": "Genuine Bosch power tools built for daily site work.",
+    "description": "The Bosch GSB 550 Impact Drill is a reliable choice for fundis, contractors and homeowners. Sourced directly from authorised Bosch distributors and backed by JNB Tools after-sales support.",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Bosch"
+      },
+      {
+        "label": "Model / SKU",
+        "value": "GSB550"
+      },
+      {
+        "label": "Category",
+        "value": "Power Tools"
+      }
+    ],
+    "stockStatus": "low_stock",
+    "isFeatured": true,
+    "isPopular": true,
+    "warranty": "6 months",
+    "tags": [
+      "power-tools",
+      "bosch"
+    ]
+  },
+  {
+    "id": "p4",
+    "slug": "makita-9553hn-angle-grinder-4",
+    "sku": "9553HN",
+    "name": "Makita 9553HN Angle Grinder 4\"",
+    "brand": "Makita",
+    "categoryId": "c1",
+    "price": 9800,
+    "oldPrice": 11000,
+    "images": [
+      "/p-drill.jpg"
+    ],
+    "shortDescription": "Genuine Makita power tools built for daily site work.",
+    "description": "The Makita 9553HN Angle Grinder 4\" is a reliable choice for fundis, contractors and homeowners. Sourced directly from authorised Makita distributors and backed by JNB Tools after-sales support.",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Makita"
+      },
+      {
+        "label": "Model / SKU",
+        "value": "9553HN"
+      },
+      {
+        "label": "Category",
+        "value": "Power Tools"
+      }
+    ],
+    "stockStatus": "in_stock",
+    "isFeatured": true,
+    "isPopular": false,
+    "warranty": "6 months",
+    "tags": [
+      "power-tools",
+      "makita"
+    ]
+  },
+  {
+    "id": "p5",
+    "slug": "total-circular-saw-1400w",
+    "sku": "TS1141856",
+    "name": "Total Circular Saw 1400W",
+    "brand": "Total",
+    "categoryId": "c1",
+    "price": 8900,
+    "oldPrice": null,
+    "images": [
+      "/p-drill.jpg"
+    ],
+    "shortDescription": "Genuine Total power tools built for daily site work.",
+    "description": "The Total Circular Saw 1400W is a reliable choice for fundis, contractors and homeowners. Sourced directly from authorised Total distributors and backed by JNB Tools after-sales support.",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Total"
+      },
+      {
+        "label": "Model / SKU",
+        "value": "TS1141856"
+      },
+      {
+        "label": "Category",
+        "value": "Power Tools"
+      }
+    ],
+    "stockStatus": "in_stock",
+    "isFeatured": false,
+    "isPopular": true,
+    "warranty": "6 months",
+    "tags": [
+      "power-tools",
+      "total"
+    ]
+  },
+  {
+    "id": "p6",
+    "slug": "ingco-rotary-hammer-sds-plus",
+    "sku": "RGH9028",
+    "name": "Ingco Rotary Hammer SDS Plus",
+    "brand": "Ingco",
+    "categoryId": "c1",
+    "price": 12500,
+    "oldPrice": 14500,
+    "images": [
+      "/images/p-drill.jpg"
+    ],
+    "shortDescription": "Genuine Ingco power tools built for daily site work.",
+    "description": "The Ingco Rotary Hammer SDS Plus is a reliable choice for fundis, contractors and homeowners. Sourced directly from authorised Ingco distributors and backed by JNB Tools after-sales support.",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Ingco"
+      },
+      {
+        "label": "Model / SKU",
+        "value": "RGH9028"
+      },
+      {
+        "label": "Category",
+        "value": "Power Tools"
+      }
+    ],
+    "stockStatus": "out_of_stock",
+    "isFeatured": false,
+    "isPopular": false,
+    "warranty": "6 months",
+    "tags": [
+      "power-tools",
+      "ingco"
+    ]
+  },
+  {
+    "id": "p7",
+    "slug": "tolsen-claw-hammer-450g",
+    "sku": "25012",
+    "name": "Tolsen Claw Hammer 450g",
+    "brand": "Tolsen",
+    "categoryId": "c2",
+    "price": 650,
+    "oldPrice": null,
+    "images": [
+      "/p-handtools.jpg"
+    ],
+    "shortDescription": "Genuine Tolsen hand tools built for daily site work.",
+    "description": "The Tolsen Claw Hammer 450g is a reliable choice for fundis, contractors and homeowners. Sourced directly from authorised Tolsen distributors and backed by JNB Tools after-sales support.",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Tolsen"
+      },
+      {
+        "label": "Model / SKU",
+        "value": "25012"
+      },
+      {
+        "label": "Category",
+        "value": "Hand Tools"
+      }
+    ],
+    "stockStatus": "in_stock",
+    "isFeatured": false,
+    "isPopular": true,
+    "warranty": "None",
+    "tags": [
+      "hand-tools",
+      "tolsen"
+    ]
+  },
+  {
+    "id": "p8",
+    "slug": "total-12pc-combination-spanner-set",
+    "sku": "TCSPA1201",
+    "name": "Total 12pc Combination Spanner Set",
+    "brand": "Total",
+    "categoryId": "c2",
+    "price": 2400,
+    "oldPrice": 2900,
+    "images": [
+      "/images/p-handtools.jpg"
+    ],
+    "shortDescription": "Genuine Total hand tools built for daily site work.",
+    "description": "The Total 12pc Combination Spanner Set is a reliable choice for fundis, contractors and homeowners. Sourced directly from authorised Total distributors and backed by JNB Tools after-sales support.",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Total"
+      },
+      {
+        "label": "Model / SKU",
+        "value": "TCSPA1201"
+      },
+      {
+        "label": "Category",
+        "value": "Hand Tools"
+      }
+    ],
+    "stockStatus": "in_stock",
+    "isFeatured": true,
+    "isPopular": true,
+    "warranty": "None",
+    "tags": [
+      "hand-tools",
+      "total"
+    ]
+  },
+  {
+    "id": "p9",
+    "slug": "ingco-combination-pliers-8",
+    "sku": "HCP08208",
+    "name": "Ingco Combination Pliers 8\"",
+    "brand": "Ingco",
+    "categoryId": "c2",
+    "price": 550,
+    "oldPrice": null,
+    "images": [
+      "/p-handtools.jpg"
+    ],
+    "shortDescription": "Genuine Ingco hand tools built for daily site work.",
+    "description": "The Ingco Combination Pliers 8\" is a reliable choice for fundis, contractors and homeowners. Sourced directly from authorised Ingco distributors and backed by JNB Tools after-sales support.",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Ingco"
+      },
+      {
+        "label": "Model / SKU",
+        "value": "HCP08208"
+      },
+      {
+        "label": "Category",
+        "value": "Hand Tools"
+      }
+    ],
+    "stockStatus": "in_stock",
+    "isFeatured": false,
+    "isPopular": true,
+    "warranty": "None",
+    "tags": [
+      "hand-tools",
+      "ingco"
+    ]
+  },
+  {
+    "id": "p10",
+    "slug": "deli-6pc-screwdriver-set",
+    "sku": "DL-SD06",
+    "name": "Deli 6pc Screwdriver Set",
+    "brand": "Deli",
+    "categoryId": "c2",
+    "price": 780,
+    "oldPrice": 950,
+    "images": [
+      "/p-handtools.jpg"
+    ],
+    "shortDescription": "Genuine Deli hand tools built for daily site work.",
+    "description": "The Deli 6pc Screwdriver Set is a reliable choice for fundis, contractors and homeowners. Sourced directly from authorised Deli distributors and backed by JNB Tools after-sales support.",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Deli"
+      },
+      {
+        "label": "Model / SKU",
+        "value": "DL-SD06"
+      },
+      {
+        "label": "Category",
+        "value": "Hand Tools"
+      }
+    ],
+    "stockStatus": "low_stock",
+    "isFeatured": false,
+    "isPopular": false,
+    "warranty": "None",
+    "tags": [
+      "hand-tools",
+      "deli"
+    ]
+  },
+  {
+    "id": "p11",
+    "slug": "tolsen-pointed-trowel-8",
+    "sku": "41016",
+    "name": "Tolsen Pointed Trowel 8\"",
+    "brand": "Tolsen",
+    "categoryId": "c3",
+    "price": 420,
+    "oldPrice": null,
+    "images": [
+      "/p-handtools.jpg"
+    ],
+    "shortDescription": "Genuine Tolsen masonry tools built for daily site work.",
+    "description": "The Tolsen Pointed Trowel 8\" is a reliable choice for fundis, contractors and homeowners. Sourced directly from authorised Tolsen distributors and backed by JNB Tools after-sales support.",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Tolsen"
+      },
+      {
+        "label": "Model / SKU",
+        "value": "41016"
+      },
+      {
+        "label": "Category",
+        "value": "Masonry Tools"
+      }
+    ],
+    "stockStatus": "in_stock",
+    "isFeatured": false,
+    "isPopular": false,
+    "warranty": "None",
+    "tags": [
+      "masonry-tools",
+      "tolsen"
+    ]
+  },
+  {
+    "id": "p12",
+    "slug": "total-aluminium-spirit-level-60cm",
+    "sku": "TMT2606",
+    "name": "Total Aluminium Spirit Level 60cm",
+    "brand": "Total",
+    "categoryId": "c3",
+    "price": 1100,
+    "oldPrice": null,
+    "images": [
+      "/p-handtools.jpg"
+    ],
+    "shortDescription": "Genuine Total masonry tools built for daily site work.",
+    "description": "The Total Aluminium Spirit Level 60cm is a reliable choice for fundis, contractors and homeowners. Sourced directly from authorised Total distributors and backed by JNB Tools after-sales support.",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Total"
+      },
+      {
+        "label": "Model / SKU",
+        "value": "TMT2606"
+      },
+      {
+        "label": "Category",
+        "value": "Masonry Tools"
+      }
+    ],
+    "stockStatus": "in_stock",
+    "isFeatured": false,
+    "isPopular": true,
+    "warranty": "None",
+    "tags": [
+      "masonry-tools",
+      "total"
+    ]
+  },
+  {
+    "id": "p13",
+    "slug": "ingco-manual-tile-cutter-600mm",
+    "sku": "HTC04600",
+    "name": "Ingco Manual Tile Cutter 600mm",
+    "brand": "Ingco",
+    "categoryId": "c3",
+    "price": 4800,
+    "oldPrice": 5500,
+    "images": [
+      "/p-handtools.jpg"
+    ],
+    "shortDescription": "Genuine Ingco masonry tools built for daily site work.",
+    "description": "The Ingco Manual Tile Cutter 600mm is a reliable choice for fundis, contractors and homeowners. Sourced directly from authorised Ingco distributors and backed by JNB Tools after-sales support.",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Ingco"
+      },
+      {
+        "label": "Model / SKU",
+        "value": "HTC04600"
+      },
+      {
+        "label": "Category",
+        "value": "Masonry Tools"
+      }
+    ],
+    "stockStatus": "in_stock",
+    "isFeatured": true,
+    "isPopular": false,
+    "warranty": "6 months",
+    "tags": [
+      "masonry-tools",
+      "ingco"
+    ]
+  },
+  {
+    "id": "p14",
+    "slug": "tolsen-rubber-mallet",
+    "sku": "25040",
+    "name": "Tolsen Rubber Mallet",
+    "brand": "Tolsen",
+    "categoryId": "c3",
+    "price": 500,
+    "oldPrice": null,
+    "images": [
+      "/p-handtools.jpg"
+    ],
+    "shortDescription": "Genuine Tolsen masonry tools built for daily site work.",
+    "description": "The Tolsen Rubber Mallet is a reliable choice for fundis, contractors and homeowners. Sourced directly from authorised Tolsen distributors and backed by JNB Tools after-sales support.",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Tolsen"
+      },
+      {
+        "label": "Model / SKU",
+        "value": "25040"
+      },
+      {
+        "label": "Category",
+        "value": "Masonry Tools"
+      }
+    ],
+    "stockStatus": "in_stock",
+    "isFeatured": false,
+    "isPopular": false,
+    "warranty": "None",
+    "tags": [
+      "masonry-tools",
+      "tolsen"
+    ]
+  },
+  {
+    "id": "p15",
+    "slug": "total-hand-saw-20",
+    "sku": "THT55206",
+    "name": "Total Hand Saw 20\"",
+    "brand": "Total",
+    "categoryId": "c4",
+    "price": 850,
+    "oldPrice": null,
+    "images": [
+      "/images/p-handtools.jpg"
+    ],
+    "shortDescription": "Genuine Total carpentry & woodwork built for daily site work.",
+    "description": "The Total Hand Saw 20\" is a reliable choice for fundis, contractors and homeowners. Sourced directly from authorised Total distributors and backed by JNB Tools after-sales support.",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Total"
+      },
+      {
+        "label": "Model / SKU",
+        "value": "THT55206"
+      },
+      {
+        "label": "Category",
+        "value": "Carpentry & Woodwork"
+      }
+    ],
+    "stockStatus": "in_stock",
+    "isFeatured": false,
+    "isPopular": true,
+    "warranty": "None",
+    "tags": [
+      "carpentry-woodwork",
+      "total"
+    ]
+  },
+  {
+    "id": "p16",
+    "slug": "ingco-wood-chisel-set-4pc",
+    "sku": "HKTWC0401",
+    "name": "Ingco Wood Chisel Set 4pc",
+    "brand": "Ingco",
+    "categoryId": "c4",
+    "price": 1350,
+    "oldPrice": 1600,
+    "images": [
+      "/images/p-handtools.jpg"
+    ],
+    "shortDescription": "Genuine Ingco carpentry & woodwork built for daily site work.",
+    "description": "The Ingco Wood Chisel Set 4pc is a reliable choice for fundis, contractors and homeowners. Sourced directly from authorised Ingco distributors and backed by JNB Tools after-sales support.",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Ingco"
+      },
+      {
+        "label": "Model / SKU",
+        "value": "HKTWC0401"
+      },
+      {
+        "label": "Category",
+        "value": "Carpentry & Woodwork"
+      }
+    ],
+    "stockStatus": "in_stock",
+    "isFeatured": false,
+    "isPopular": false,
+    "warranty": "None",
+    "tags": [
+      "carpentry-woodwork",
+      "ingco"
+    ]
+  },
+  {
+    "id": "p17",
+    "slug": "makita-electric-planer-82mm",
+    "sku": "KP0800",
+    "name": "Makita Electric Planer 82mm",
+    "brand": "Makita",
+    "categoryId": "c4",
+    "price": 14500,
+    "oldPrice": null,
+    "images": [
+      "/images/p-drill.jpg"
+    ],
+    "shortDescription": "Genuine Makita carpentry & woodwork built for daily site work.",
+    "description": "The Makita Electric Planer 82mm is a reliable choice for fundis, contractors and homeowners. Sourced directly from authorised Makita distributors and backed by JNB Tools after-sales support.",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Makita"
+      },
+      {
+        "label": "Model / SKU",
+        "value": "KP0800"
+      },
+      {
+        "label": "Category",
+        "value": "Carpentry & Woodwork"
+      }
+    ],
+    "stockStatus": "low_stock",
+    "isFeatured": true,
+    "isPopular": false,
+    "warranty": "6 months",
+    "tags": [
+      "carpentry-woodwork",
+      "makita"
+    ]
+  },
+  {
+    "id": "p18",
+    "slug": "tolsen-f-clamp-300mm",
+    "sku": "10203",
+    "name": "Tolsen F-Clamp 300mm",
+    "brand": "Tolsen",
+    "categoryId": "c4",
+    "price": 700,
+    "oldPrice": null,
+    "images": [
+      "/images/p-handtools.jpg"
+    ],
+    "shortDescription": "Genuine Tolsen carpentry & woodwork built for daily site work.",
+    "description": "The Tolsen F-Clamp 300mm is a reliable choice for fundis, contractors and homeowners. Sourced directly from authorised Tolsen distributors and backed by JNB Tools after-sales support.",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Tolsen"
+      },
+      {
+        "label": "Model / SKU",
+        "value": "10203"
+      },
+      {
+        "label": "Category",
+        "value": "Carpentry & Woodwork"
+      }
+    ],
+    "stockStatus": "in_stock",
+    "isFeatured": false,
+    "isPopular": false,
+    "warranty": "None",
+    "tags": [
+      "carpentry-woodwork",
+      "tolsen"
+    ]
+  },
+  {
+    "id": "p19",
+    "slug": "ingco-inverter-welding-machine-160a",
+    "sku": "ING-MMA1602",
+    "name": "Ingco Inverter Welding Machine 160A",
+    "brand": "Ingco",
+    "categoryId": "c5",
+    "price": 14500,
+    "oldPrice": 16900,
+    "images": [
+      "/images/p-welder.jpg"
+    ],
+    "shortDescription": "Genuine Ingco welding equipment built for daily site work.",
+    "description": "The Ingco Inverter Welding Machine 160A is a reliable choice for fundis, contractors and homeowners. Sourced directly from authorised Ingco distributors and backed by JNB Tools after-sales support.",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Ingco"
+      },
+      {
+        "label": "Model / SKU",
+        "value": "ING-MMA1602"
+      },
+      {
+        "label": "Category",
+        "value": "Welding Equipment"
+      }
+    ],
+    "stockStatus": "in_stock",
+    "isFeatured": true,
+    "isPopular": true,
+    "warranty": "6 months",
+    "tags": [
+      "welding-equipment",
+      "ingco"
+    ]
+  },
+  {
+    "id": "p20",
+    "slug": "total-inverter-mma-welder-200a",
+    "sku": "TW22005",
+    "name": "Total Inverter MMA Welder 200A",
+    "brand": "Total",
+    "categoryId": "c5",
+    "price": 17800,
+    "oldPrice": null,
+    "images": [
+      "/images/p-welder.jpg"
+    ],
+    "shortDescription": "Genuine Total welding equipment built for daily site work.",
+    "description": "The Total Inverter MMA Welder 200A is a reliable choice for fundis, contractors and homeowners. Sourced directly from authorised Total distributors and backed by JNB Tools after-sales support.",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Total"
+      },
+      {
+        "label": "Model / SKU",
+        "value": "TW22005"
+      },
+      {
+        "label": "Category",
+        "value": "Welding Equipment"
+      }
+    ],
+    "stockStatus": "in_stock",
+    "isFeatured": false,
+    "isPopular": true,
+    "warranty": "6 months",
+    "tags": [
+      "welding-equipment",
+      "total"
+    ]
+  },
+  {
+    "id": "p21",
+    "slug": "auto-darkening-welding-helmet",
+    "sku": "TSP9102",
+    "name": "Auto-Darkening Welding Helmet",
+    "brand": "Total",
+    "categoryId": "c5",
+    "price": 2800,
+    "oldPrice": 3200,
+    "images": [
+      "/images/p-welder.jpg"
+    ],
+    "shortDescription": "Genuine Total welding equipment built for daily site work.",
+    "description": "The Auto-Darkening Welding Helmet is a reliable choice for fundis, contractors and homeowners. Sourced directly from authorised Total distributors and backed by JNB Tools after-sales support.",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Total"
+      },
+      {
+        "label": "Model / SKU",
+        "value": "TSP9102"
+      },
+      {
+        "label": "Category",
+        "value": "Welding Equipment"
+      }
+    ],
+    "stockStatus": "low_stock",
+    "isFeatured": false,
+    "isPopular": false,
+    "warranty": "None",
+    "tags": [
+      "welding-equipment",
+      "total"
+    ]
+  },
+  {
+    "id": "p22",
+    "slug": "welding-electrodes-2-5mm-5kg",
+    "sku": "DL-WE25",
+    "name": "Welding Electrodes 2.5mm 5kg",
+    "brand": "Deli",
+    "categoryId": "c5",
+    "price": 1900,
+    "oldPrice": null,
+    "images": [
+      "/images/p-welder.jpg"
+    ],
+    "shortDescription": "Genuine Deli welding equipment built for daily site work.",
+    "description": "The Welding Electrodes 2.5mm 5kg is a reliable choice for fundis, contractors and homeowners. Sourced directly from authorised Deli distributors and backed by JNB Tools after-sales support.",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Deli"
+      },
+      {
+        "label": "Model / SKU",
+        "value": "DL-WE25"
+      },
+      {
+        "label": "Category",
+        "value": "Welding Equipment"
+      }
+    ],
+    "stockStatus": "in_stock",
+    "isFeatured": false,
+    "isPopular": true,
+    "warranty": "None",
+    "tags": [
+      "welding-equipment",
+      "deli"
+    ]
+  },
+  {
+    "id": "p23",
+    "slug": "deli-steel-tape-measure-5m",
+    "sku": "DL-TM5",
+    "name": "Deli Steel Tape Measure 5m",
+    "brand": "Deli",
+    "categoryId": "c6",
+    "price": 350,
+    "oldPrice": null,
+    "images": [
+      "/images/p-handtools.jpg"
+    ],
+    "shortDescription": "Genuine Deli measuring & testing built for daily site work.",
+    "description": "The Deli Steel Tape Measure 5m is a reliable choice for fundis, contractors and homeowners. Sourced directly from authorised Deli distributors and backed by JNB Tools after-sales support.",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Deli"
+      },
+      {
+        "label": "Model / SKU",
+        "value": "DL-TM5"
+      },
+      {
+        "label": "Category",
+        "value": "Measuring & Testing"
+      }
+    ],
+    "stockStatus": "in_stock",
+    "isFeatured": false,
+    "isPopular": true,
+    "warranty": "None",
+    "tags": [
+      "measuring-testing",
+      "deli"
+    ]
+  },
+  {
+    "id": "p24",
+    "slug": "ingco-digital-multimeter",
+    "sku": "DM200",
+    "name": "Ingco Digital Multimeter",
+    "brand": "Ingco",
+    "categoryId": "c6",
+    "price": 1600,
+    "oldPrice": 1900,
+    "images": [
+      "/images/p-handtools.jpg"
+    ],
+    "shortDescription": "Genuine Ingco measuring & testing built for daily site work.",
+    "description": "The Ingco Digital Multimeter is a reliable choice for fundis, contractors and homeowners. Sourced directly from authorised Ingco distributors and backed by JNB Tools after-sales support.",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Ingco"
+      },
+      {
+        "label": "Model / SKU",
+        "value": "DM200"
+      },
+      {
+        "label": "Category",
+        "value": "Measuring & Testing"
+      }
+    ],
+    "stockStatus": "in_stock",
+    "isFeatured": true,
+    "isPopular": false,
+    "warranty": "None",
+    "tags": [
+      "measuring-testing",
+      "ingco"
+    ]
+  },
+  {
+    "id": "p25",
+    "slug": "bosch-glm-40-laser-distance-meter",
+    "sku": "GLM40",
+    "name": "Bosch GLM 40 Laser Distance Meter",
+    "brand": "Bosch",
+    "categoryId": "c6",
+    "price": 9800,
+    "oldPrice": null,
+    "images": [
+      "/images/p-handtools.jpg"
+    ],
+    "shortDescription": "Genuine Bosch measuring & testing built for daily site work.",
+    "description": "The Bosch GLM 40 Laser Distance Meter is a reliable choice for fundis, contractors and homeowners. Sourced directly from authorised Bosch distributors and backed by JNB Tools after-sales support.",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Bosch"
+      },
+      {
+        "label": "Model / SKU",
+        "value": "GLM40"
+      },
+      {
+        "label": "Category",
+        "value": "Measuring & Testing"
+      }
+    ],
+    "stockStatus": "in_stock",
+    "isFeatured": false,
+    "isPopular": false,
+    "warranty": "6 months",
+    "tags": [
+      "measuring-testing",
+      "bosch"
+    ]
+  },
+  {
+    "id": "p26",
+    "slug": "digital-platform-scale-300kg",
+    "sku": "DL-SC300",
+    "name": "Digital Platform Scale 300kg",
+    "brand": "Deli",
+    "categoryId": "c6",
+    "price": 8500,
+    "oldPrice": 9500,
+    "images": [
+      "/images/p-handtools.jpg"
+    ],
+    "shortDescription": "Genuine Deli measuring & testing built for daily site work.",
+    "description": "The Digital Platform Scale 300kg is a reliable choice for fundis, contractors and homeowners. Sourced directly from authorised Deli distributors and backed by JNB Tools after-sales support.",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Deli"
+      },
+      {
+        "label": "Model / SKU",
+        "value": "DL-SC300"
+      },
+      {
+        "label": "Category",
+        "value": "Measuring & Testing"
+      }
+    ],
+    "stockStatus": "out_of_stock",
+    "isFeatured": false,
+    "isPopular": false,
+    "warranty": "6 months",
+    "tags": [
+      "measuring-testing",
+      "deli"
+    ]
+  },
+  {
+    "id": "p27",
+    "slug": "total-metal-cutting-disc-115mm-pack-10",
+    "sku": "TAC2211151",
+    "name": "Total Metal Cutting Disc 115mm (Pack 10)",
+    "brand": "Total",
+    "categoryId": "c7",
+    "price": 750,
+    "oldPrice": 900,
+    "images": [
+      "/images/p-disc.jpg"
+    ],
+    "shortDescription": "Genuine Total cutting & abrasives built for daily site work.",
+    "description": "The Total Metal Cutting Disc 115mm (Pack 10) is a reliable choice for fundis, contractors and homeowners. Sourced directly from authorised Total distributors and backed by JNB Tools after-sales support.",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Total"
+      },
+      {
+        "label": "Model / SKU",
+        "value": "TAC2211151"
+      },
+      {
+        "label": "Category",
+        "value": "Cutting & Abrasives"
+      }
+    ],
+    "stockStatus": "in_stock",
+    "isFeatured": false,
+    "isPopular": true,
+    "warranty": "None",
+    "tags": [
+      "cutting-abrasives",
+      "total"
+    ]
+  },
+  {
+    "id": "p28",
+    "slug": "bosch-flap-disc-115mm-p60",
+    "sku": "BFD115",
+    "name": "Bosch Flap Disc 115mm P60",
+    "brand": "Bosch",
+    "categoryId": "c7",
+    "price": 320,
+    "oldPrice": null,
+    "images": [
+      "/images/p-disc.jpg"
+    ],
+    "shortDescription": "Genuine Bosch cutting & abrasives built for daily site work.",
+    "description": "The Bosch Flap Disc 115mm P60 is a reliable choice for fundis, contractors and homeowners. Sourced directly from authorised Bosch distributors and backed by JNB Tools after-sales support.",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Bosch"
+      },
+      {
+        "label": "Model / SKU",
+        "value": "BFD115"
+      },
+      {
+        "label": "Category",
+        "value": "Cutting & Abrasives"
+      }
+    ],
+    "stockStatus": "in_stock",
+    "isFeatured": false,
+    "isPopular": false,
+    "warranty": "None",
+    "tags": [
+      "cutting-abrasives",
+      "bosch"
+    ]
+  },
+  {
+    "id": "p29",
+    "slug": "makita-diamond-blade-230mm",
+    "sku": "D-61145",
+    "name": "Makita Diamond Blade 230mm",
+    "brand": "Makita",
+    "categoryId": "c7",
+    "price": 2300,
+    "oldPrice": null,
+    "images": [
+      "/images/p-disc.jpg"
+    ],
+    "shortDescription": "Genuine Makita cutting & abrasives built for daily site work.",
+    "description": "The Makita Diamond Blade 230mm is a reliable choice for fundis, contractors and homeowners. Sourced directly from authorised Makita distributors and backed by JNB Tools after-sales support.",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Makita"
+      },
+      {
+        "label": "Model / SKU",
+        "value": "D-61145"
+      },
+      {
+        "label": "Category",
+        "value": "Cutting & Abrasives"
+      }
+    ],
+    "stockStatus": "low_stock",
+    "isFeatured": false,
+    "isPopular": false,
+    "warranty": "None",
+    "tags": [
+      "cutting-abrasives",
+      "makita"
+    ]
+  },
+  {
+    "id": "p30",
+    "slug": "tolsen-plastic-toolbox-19",
+    "sku": "80180",
+    "name": "Tolsen Plastic Toolbox 19\"",
+    "brand": "Tolsen",
+    "categoryId": "c8",
+    "price": 1500,
+    "oldPrice": 1800,
+    "images": [
+      "/images/p-handtools.jpg"
+    ],
+    "shortDescription": "Genuine Tolsen tool storage built for daily site work.",
+    "description": "The Tolsen Plastic Toolbox 19\" is a reliable choice for fundis, contractors and homeowners. Sourced directly from authorised Tolsen distributors and backed by JNB Tools after-sales support.",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Tolsen"
+      },
+      {
+        "label": "Model / SKU",
+        "value": "80180"
+      },
+      {
+        "label": "Category",
+        "value": "Tool Storage"
+      }
+    ],
+    "stockStatus": "in_stock",
+    "isFeatured": false,
+    "isPopular": true,
+    "warranty": "None",
+    "tags": [
+      "tool-storage",
+      "tolsen"
+    ]
+  },
+  {
+    "id": "p31",
+    "slug": "ingco-3-drawer-metal-tool-chest",
+    "sku": "HTB03",
+    "name": "Ingco 3-Drawer Metal Tool Chest",
+    "brand": "Ingco",
+    "categoryId": "c8",
+    "price": 5200,
+    "oldPrice": null,
+    "images": [
+      "/images/p-handtools.jpg"
+    ],
+    "shortDescription": "Genuine Ingco tool storage built for daily site work.",
+    "description": "The Ingco 3-Drawer Metal Tool Chest is a reliable choice for fundis, contractors and homeowners. Sourced directly from authorised Ingco distributors and backed by JNB Tools after-sales support.",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Ingco"
+      },
+      {
+        "label": "Model / SKU",
+        "value": "HTB03"
+      },
+      {
+        "label": "Category",
+        "value": "Tool Storage"
+      }
+    ],
+    "stockStatus": "in_stock",
+    "isFeatured": true,
+    "isPopular": false,
+    "warranty": "6 months",
+    "tags": [
+      "tool-storage",
+      "ingco"
+    ]
+  },
+  {
+    "id": "p32",
+    "slug": "total-canvas-tool-bag-16",
+    "sku": "THT26161",
+    "name": "Total Canvas Tool Bag 16\"",
+    "brand": "Total",
+    "categoryId": "c8",
+    "price": 1200,
+    "oldPrice": null,
+    "images": [
+      "/images/p-handtools.jpg"
+    ],
+    "shortDescription": "Genuine Total tool storage built for daily site work.",
+    "description": "The Total Canvas Tool Bag 16\" is a reliable choice for fundis, contractors and homeowners. Sourced directly from authorised Total distributors and backed by JNB Tools after-sales support.",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Total"
+      },
+      {
+        "label": "Model / SKU",
+        "value": "THT26161"
+      },
+      {
+        "label": "Category",
+        "value": "Tool Storage"
+      }
+    ],
+    "stockStatus": "in_stock",
+    "isFeatured": false,
+    "isPopular": false,
+    "warranty": "None",
+    "tags": [
+      "tool-storage",
+      "total"
+    ]
+  },
+  {
+    "id": "p33",
+    "slug": "led-floodlight-100w-ip65",
+    "sku": "TLFL2101",
+    "name": "LED Floodlight 100W IP65",
+    "brand": "Total",
+    "categoryId": "c9",
+    "price": 2600,
+    "oldPrice": 3100,
+    "images": [
+      "/images/p-solar.jpg"
+    ],
+    "shortDescription": "Genuine Total electrical & lighting built for daily site work.",
+    "description": "The LED Floodlight 100W IP65 is a reliable choice for fundis, contractors and homeowners. Sourced directly from authorised Total distributors and backed by JNB Tools after-sales support.",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Total"
+      },
+      {
+        "label": "Model / SKU",
+        "value": "TLFL2101"
+      },
+      {
+        "label": "Category",
+        "value": "Electrical & Lighting"
+      }
+    ],
+    "stockStatus": "in_stock",
+    "isFeatured": false,
+    "isPopular": true,
+    "warranty": "None",
+    "tags": [
+      "electrical-lighting",
+      "total"
+    ]
+  },
+  {
+    "id": "p34",
+    "slug": "twin-core-cable-2-5mm-100m",
+    "sku": "DL-CB25",
+    "name": "Twin Core Cable 2.5mm 100m",
+    "brand": "Deli",
+    "categoryId": "c9",
+    "price": 7800,
+    "oldPrice": null,
+    "images": [
+      "/images/p-solar.jpg"
+    ],
+    "shortDescription": "Genuine Deli electrical & lighting built for daily site work.",
+    "description": "The Twin Core Cable 2.5mm 100m is a reliable choice for fundis, contractors and homeowners. Sourced directly from authorised Deli distributors and backed by JNB Tools after-sales support.",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Deli"
+      },
+      {
+        "label": "Model / SKU",
+        "value": "DL-CB25"
+      },
+      {
+        "label": "Category",
+        "value": "Electrical & Lighting"
+      }
+    ],
+    "stockStatus": "in_stock",
+    "isFeatured": false,
+    "isPopular": false,
+    "warranty": "6 months",
+    "tags": [
+      "electrical-lighting",
+      "deli"
+    ]
+  },
+  {
+    "id": "p35",
+    "slug": "solar-panel-150w-mono",
+    "sku": "TSP150M",
+    "name": "Solar Panel 150W Mono",
+    "brand": "Total",
+    "categoryId": "c10",
+    "price": 9500,
+    "oldPrice": 11500,
+    "images": [
+      "/images/p-solar.jpg"
+    ],
+    "shortDescription": "Genuine Total solar built for daily site work.",
+    "description": "The Solar Panel 150W Mono is a reliable choice for fundis, contractors and homeowners. Sourced directly from authorised Total distributors and backed by JNB Tools after-sales support.",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Total"
+      },
+      {
+        "label": "Model / SKU",
+        "value": "TSP150M"
+      },
+      {
+        "label": "Category",
+        "value": "Solar"
+      }
+    ],
+    "stockStatus": "in_stock",
+    "isFeatured": true,
+    "isPopular": true,
+    "warranty": "6 months",
+    "tags": [
+      "solar",
+      "total"
+    ]
+  },
+  {
+    "id": "p36",
+    "slug": "solar-lantern-with-usb",
+    "sku": "SLL01",
+    "name": "Solar Lantern with USB",
+    "brand": "Ingco",
+    "categoryId": "c10",
+    "price": 1450,
+    "oldPrice": null,
+    "images": [
+      "/images/p-solar.jpg"
+    ],
+    "shortDescription": "Genuine Ingco solar built for daily site work.",
+    "description": "The Solar Lantern with USB is a reliable choice for fundis, contractors and homeowners. Sourced directly from authorised Ingco distributors and backed by JNB Tools after-sales support.",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Ingco"
+      },
+      {
+        "label": "Model / SKU",
+        "value": "SLL01"
+      },
+      {
+        "label": "Category",
+        "value": "Solar"
+      }
+    ],
+    "stockStatus": "in_stock",
+    "isFeatured": false,
+    "isPopular": true,
+    "warranty": "None",
+    "tags": [
+      "solar",
+      "ingco"
+    ]
+  },
+  {
+    "id": "p37",
+    "slug": "pwm-solar-charge-controller-30a",
+    "sku": "TSCC30",
+    "name": "PWM Solar Charge Controller 30A",
+    "brand": "Total",
+    "categoryId": "c10",
+    "price": 2200,
+    "oldPrice": null,
+    "images": [
+      "/images/p-solar.jpg"
+    ],
+    "shortDescription": "Genuine Total solar built for daily site work.",
+    "description": "The PWM Solar Charge Controller 30A is a reliable choice for fundis, contractors and homeowners. Sourced directly from authorised Total distributors and backed by JNB Tools after-sales support.",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Total"
+      },
+      {
+        "label": "Model / SKU",
+        "value": "TSCC30"
+      },
+      {
+        "label": "Category",
+        "value": "Solar"
+      }
+    ],
+    "stockStatus": "in_stock",
+    "isFeatured": false,
+    "isPopular": false,
+    "warranty": "None",
+    "tags": [
+      "solar",
+      "total"
+    ]
+  },
+  {
+    "id": "p38",
+    "slug": "tolsen-pipe-wrench-14",
+    "sku": "10232",
+    "name": "Tolsen Pipe Wrench 14\"",
+    "brand": "Tolsen",
+    "categoryId": "c11",
+    "price": 1100,
+    "oldPrice": null,
+    "images": [
+      "/images/p-handtools.jpg"
+    ],
+    "shortDescription": "Genuine Tolsen plumbing & bathroom built for daily site work.",
+    "description": "The Tolsen Pipe Wrench 14\" is a reliable choice for fundis, contractors and homeowners. Sourced directly from authorised Tolsen distributors and backed by JNB Tools after-sales support.",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Tolsen"
+      },
+      {
+        "label": "Model / SKU",
+        "value": "10232"
+      },
+      {
+        "label": "Category",
+        "value": "Plumbing & Bathroom"
+      }
+    ],
+    "stockStatus": "in_stock",
+    "isFeatured": false,
+    "isPopular": true,
+    "warranty": "None",
+    "tags": [
+      "plumbing-bathroom",
+      "tolsen"
+    ]
+  },
+  {
+    "id": "p39",
+    "slug": "ppr-welding-machine-20-63mm",
+    "sku": "PPR15008",
+    "name": "PPR Welding Machine 20-63mm",
+    "brand": "Ingco",
+    "categoryId": "c11",
+    "price": 4200,
+    "oldPrice": 4900,
+    "images": [
+      "/images/p-welder.jpg"
+    ],
+    "shortDescription": "Genuine Ingco plumbing & bathroom built for daily site work.",
+    "description": "The PPR Welding Machine 20-63mm is a reliable choice for fundis, contractors and homeowners. Sourced directly from authorised Ingco distributors and backed by JNB Tools after-sales support.",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Ingco"
+      },
+      {
+        "label": "Model / SKU",
+        "value": "PPR15008"
+      },
+      {
+        "label": "Category",
+        "value": "Plumbing & Bathroom"
+      }
+    ],
+    "stockStatus": "in_stock",
+    "isFeatured": false,
+    "isPopular": false,
+    "warranty": "6 months",
+    "tags": [
+      "plumbing-bathroom",
+      "ingco"
+    ]
+  },
+  {
+    "id": "p40",
+    "slug": "chrome-kitchen-mixer-tap",
+    "sku": "DL-KT01",
+    "name": "Chrome Kitchen Mixer Tap",
+    "brand": "Deli",
+    "categoryId": "c11",
+    "price": 3200,
+    "oldPrice": null,
+    "images": [
+      "/images/p-solar.jpg"
+    ],
+    "shortDescription": "Genuine Deli plumbing & bathroom built for daily site work.",
+    "description": "The Chrome Kitchen Mixer Tap is a reliable choice for fundis, contractors and homeowners. Sourced directly from authorised Deli distributors and backed by JNB Tools after-sales support.",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Deli"
+      },
+      {
+        "label": "Model / SKU",
+        "value": "DL-KT01"
+      },
+      {
+        "label": "Category",
+        "value": "Plumbing & Bathroom"
+      }
+    ],
+    "stockStatus": "in_stock",
+    "isFeatured": false,
+    "isPopular": false,
+    "warranty": "6 months",
+    "tags": [
+      "plumbing-bathroom",
+      "deli"
+    ]
+  },
+  {
+    "id": "p41",
+    "slug": "ingco-high-pressure-washer-1800w",
+    "sku": "HPWR18008",
+    "name": "Ingco High Pressure Washer 1800W",
+    "brand": "Ingco",
+    "categoryId": "c12",
+    "price": 15500,
+    "oldPrice": 17900,
+    "images": [
+      "/images/p-washer.jpg"
+    ],
+    "shortDescription": "Genuine Ingco cleaning equipment built for daily site work.",
+    "description": "The Ingco High Pressure Washer 1800W is a reliable choice for fundis, contractors and homeowners. Sourced directly from authorised Ingco distributors and backed by JNB Tools after-sales support.",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Ingco"
+      },
+      {
+        "label": "Model / SKU",
+        "value": "HPWR18008"
+      },
+      {
+        "label": "Category",
+        "value": "Cleaning Equipment"
+      }
+    ],
+    "stockStatus": "in_stock",
+    "isFeatured": true,
+    "isPopular": true,
+    "warranty": "6 months",
+    "tags": [
+      "cleaning-equipment",
+      "ingco"
+    ]
+  },
+  {
+    "id": "p42",
+    "slug": "total-pressure-washer-1400w",
+    "sku": "TGT11316",
+    "name": "Total Pressure Washer 1400W",
+    "brand": "Total",
+    "categoryId": "c12",
+    "price": 11800,
+    "oldPrice": null,
+    "images": [
+      "/images/p-washer.jpg"
+    ],
+    "shortDescription": "Genuine Total cleaning equipment built for daily site work.",
+    "description": "The Total Pressure Washer 1400W is a reliable choice for fundis, contractors and homeowners. Sourced directly from authorised Total distributors and backed by JNB Tools after-sales support.",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Total"
+      },
+      {
+        "label": "Model / SKU",
+        "value": "TGT11316"
+      },
+      {
+        "label": "Category",
+        "value": "Cleaning Equipment"
+      }
+    ],
+    "stockStatus": "in_stock",
+    "isFeatured": false,
+    "isPopular": false,
+    "warranty": "6 months",
+    "tags": [
+      "cleaning-equipment",
+      "total"
+    ]
+  },
+  {
+    "id": "p43",
+    "slug": "ingco-20v-li-ion-battery-4-0ah",
+    "sku": "FBLI2002",
+    "name": "Ingco 20V Li-ion Battery 4.0Ah",
+    "brand": "Ingco",
+    "categoryId": "c13",
+    "price": 4500,
+    "oldPrice": null,
+    "images": [
+      "/images/p-drill.jpg"
+    ],
+    "shortDescription": "Genuine Ingco batteries & chargers built for daily site work.",
+    "description": "The Ingco 20V Li-ion Battery 4.0Ah is a reliable choice for fundis, contractors and homeowners. Sourced directly from authorised Ingco distributors and backed by JNB Tools after-sales support.",
+    "specs": [
+      {
+        "label": "Brand",
+        "value": "Ingco"
+      },
+      {
+        "label": "Model / SKU",
+        "value": "FBLI2002"
+      },
+      {
+        "label": "Category",
+        "value": "Batteries & Chargers"
+      }
+    ],
+    "stockStatus": "in_stock",
+    "isFeatured": false,
+    "isPopular": true,
+    "warranty": "6 months",
+    "tags": [
+      "batteries-chargers",
+      "ingco"
+    ]
+  }
+]

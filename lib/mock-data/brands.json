@@ -1,0 +1,26 @@
+[
+  {
+    "id": "deli",
+    "name": "Deli"
+  },
+  {
+    "id": "ingco",
+    "name": "Ingco"
+  },
+  {
+    "id": "total",
+    "name": "Total"
+  },
+  {
+    "id": "bosch",
+    "name": "Bosch"
+  },
+  {
+    "id": "makita",
+    "name": "Makita"
+  },
+  {
+    "id": "tolsen",
+    "name": "Tolsen"
+  }
+]

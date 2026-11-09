@@ -1,0 +1,156 @@
+[
+  {
+    "id": "c1",
+    "slug": "power-tools",
+    "name": "Power Tools",
+    "icon": "Drill",
+    "image": "/images/p-drill.jpg",
+    "description": "Drills, grinders, saws and more",
+    "parentId": null,
+    "sortOrder": 1,
+    "isActive": false
+  },
+  {
+    "id": "c2",
+    "slug": "hand-tools",
+    "name": "Hand Tools",
+    "icon": "Hammer",
+    "image": "/images/p-handtools.jpg",
+    "description": "Hammers, spanners, pliers and screwdrivers",
+    "parentId": null,
+    "sortOrder": 2,
+    "isActive": true
+  },
+  {
+    "id": "c3",
+    "slug": "masonry-tools",
+    "name": "Masonry Tools",
+    "icon": "BrickWall",
+    "image": "/images/p-handtools.jpg",
+    "description": "Trowels, levels and tile tools",
+    "parentId": null,
+    "sortOrder": 3,
+    "isActive": true
+  },
+  {
+    "id": "c4",
+    "slug": "carpentry-woodwork",
+    "name": "Carpentry & Woodwork",
+    "icon": "Axe",
+    "image": "/images/p-handtools.jpg",
+    "description": "Saws, chisels, planes and clamps",
+    "parentId": null,
+    "sortOrder": 4,
+    "isActive": true
+  },
+  {
+    "id": "c5",
+    "slug": "welding-equipment",
+    "name": "Welding Equipment",
+    "icon": "Flame",
+    "image": "/images/p-welder.jpg",
+    "description": "Inverter welders, rods and helmets",
+    "parentId": null,
+    "sortOrder": 5,
+    "isActive": false
+  },
+  {
+    "id": "c6",
+    "slug": "measuring-testing",
+    "name": "Measuring & Testing",
+    "icon": "Ruler",
+    "image": "/images/p-handtools.jpg",
+    "description": "Tapes, levels, multimeters and scales",
+    "parentId": null,
+    "sortOrder": 6,
+    "isActive": true
+  },
+  {
+    "id": "c7",
+    "slug": "cutting-abrasives",
+    "name": "Cutting & Abrasives",
+    "icon": "Disc",
+    "image": "/images/p-disc.jpg",
+    "description": "Cutting discs, grinding and flap discs",
+    "parentId": null,
+    "sortOrder": 7,
+    "isActive": true
+  },
+  {
+    "id": "c8",
+    "name": "Tool Storage",
+    "slug": "tool-storage",
+    "icon": "Briefcase",
+    "image": "/images/p-handtools.jpg",
+    "description": "Toolboxes, bags and organisers",
+    "parentId": null,
+    "sortOrder": 8,
+    "isActive": false
+  },
+  {
+    "id": "c9",
+    "slug": "electrical-lighting",
+    "name": "Electrical & Lighting",
+    "icon": "Lightbulb",
+    "image": "/images/p-solar.jpg",
+    "description": "Cables, sockets, bulbs and floodlights",
+    "parentId": null,
+    "sortOrder": 9,
+    "isActive": true
+  },
+  {
+    "id": "c10",
+    "slug": "solar",
+    "name": "Solar",
+    "icon": "Sun",
+    "image": "/images/p-solar.jpg",
+    "description": "Panels, solar lights and controllers",
+    "parentId": null,
+    "sortOrder": 10,
+    "isActive": true
+  },
+  {
+    "id": "c11",
+    "slug": "plumbing-bathroom",
+    "name": "Plumbing & Bathroom",
+    "icon": "Wrench",
+    "image": "/images/p-handtools.jpg",
+    "description": "Pipe tools, taps and fittings",
+    "parentId": null,
+    "sortOrder": 11,
+    "isActive": true
+  },
+  {
+    "id": "c12",
+    "slug": "cleaning-equipment",
+    "name": "Cleaning Equipment",
+    "icon": "Droplets",
+    "image": "/images/p-washer.jpg",
+    "description": "Pressure washers and vacuums",
+    "parentId": null,
+    "sortOrder": 12,
+    "isActive": false
+  },
+  {
+    "id": "c13",
+    "slug": "batteries-chargers",
+    "name": "Batteries & Chargers",
+    "icon": "BatteryCharging",
+    "image": "/images/p-drill.jpg",
+    "description": "Tool batteries and chargers",
+    "parentId": null,
+    "sortOrder": 13,
+    "isActive": true
+  },
+  {
+    "id": "c-mw9f06wt",
+    "name": "Electronics",
+    "slug": "electronics",
+    "icon": "Plug",
+    "image": "",
+    "description": "all elecronics",
+    "parentId": "c9",
+    "sortOrder": 14,
+    "isActive": true
+  }
+]

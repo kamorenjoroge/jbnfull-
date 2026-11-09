@@ -1,0 +1,30 @@
+[
+  {
+    "id": "t1",
+    "name": "Peter Kamau",
+    "role": "Mason, Thika",
+    "rating": 5,
+    "text": "Bought the Deli diamond discs \u2014 clean cuts on porcelain and the price was fair. Ordering on WhatsApp was quick."
+  },
+  {
+    "id": "t2",
+    "name": "Grace Wanjiru",
+    "role": "Homeowner, Nairobi",
+    "rating": 5,
+    "text": "They advised me on the right solar panel and controller for my shamba house. Very honest people."
+  },
+  {
+    "id": "t3",
+    "name": "Otieno Welding Works",
+    "role": "Fabricator, Kisumu",
+    "rating": 4,
+    "text": "The Ingco inverter welder has run every day for months. Delivery to Kisumu came in two days."
+  },
+  {
+    "id": "t4",
+    "name": "James Mutua",
+    "role": "Carpenter, Machakos",
+    "rating": 5,
+    "text": "Genuine Makita tools, and warranty support when I needed it. My go-to shop."
+  }
+]
